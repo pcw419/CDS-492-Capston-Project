@@ -2,7 +2,7 @@
 Statistical analysis of global life expectancy vs. GDP (1990–2021) using R with UNDP and World Bank data
 
 ## Overview
-This project analyzes global life expectancy trends from 1990 to 2021 using datasets from the UNDP and World Bank. The main objective is to explore the relationship between GDP and life expectancy, highlighting disparities across regions and offering policy insights aligned with Sustainable Development Goal 11 (Sustainable Cities and Communities).
+This project (completed in Summer 2025 as part of CDS 492 at George Mason University) analyzes global life expectancy trends from 1990 to 2021 using datasets from the UNDP and World Bank. The main objective is to explore the relationship between GDP and life expectancy, highlighting disparities across regions and offering policy insights aligned with Sustainable Development Goal 11 (Sustainable Cities and Communities).
 
 ## Datasets
 - **Source**: UNDP Human Development Reports, World Bank Open Data  
