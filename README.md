@@ -84,15 +84,15 @@ Representative plots from the analysis (more available in the [`images/`](./imag
 ![Continent Boxplot 2021](images/continent/Continent_2021_box.png)
 
 ### GDP-level
-![Top 10 GDP Countries 2021](images/gdp/2021GDP_top10.png)  
-![Low 10 GDP Countries 2021](images/gdp/2021GDP_low10.png)
+![Top 10 GDP Countries 2021](images/GDP/2021GDP_top10.png)  
+![Low 10 GDP Countries 2021](images/GDP/2021GDP_low10.png)
 
 ### Human Development Index (HDI) Groups
-![HDI Groups Overview](images/hd/HD4groups.png)
+![HDI Groups Overview](images/HD/HD4groups.png)
 
 ### ANOVA Results
-![ANOVA: Overall Test of Life Expectancy Differences Across Continents](images/anova/anova_WholeContinent.png)
-![ANOVA: Tukey HSD Pairwise Comparisons Between Continents](images/anova/anova_CompareWholeContinent.png)
+![ANOVA: Overall Test of Life Expectancy Differences Across Continents](images/ANOVA/anova_WholeContinent.png)
+![ANOVA: Tukey HSD Pairwise Comparisons Between Continents](images/ANOVA/anova_CompareWholeContinent.png)
 
 ---
 
