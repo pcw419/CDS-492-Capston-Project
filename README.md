@@ -10,8 +10,9 @@ It analyzes disparities across **countries, continents, and Human Development In
 ---
 
 ## Repository Structure
+```
 CDS-492-Capstone-Project/
-│
+
 ├── data/ # Raw datasets (CSV files)
 │ ├── country1990-2021.csv
 │ ├── continent1990-2021.csv
@@ -25,10 +26,11 @@ CDS-492-Capstone-Project/
 │ └── HD.R # Life expectancy by HDI groups
 │
 ├── images/ # Generated plots (auto-saved)
+│
 ├── outputs/ # CSV summary tables (auto-saved)
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
