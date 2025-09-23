@@ -83,9 +83,10 @@ Representative plots from the analysis (more available in the [`images/`](./imag
 ![Continent Boxplot 1990](images/continent/Continent_1990_box.png)  
 ![Continent Boxplot 2021](images/continent/Continent_2021_box.png)
 
-### GDP-level
-![Top 10 GDP Countries 2021](images/GDP/2021GDP_top10.png)  
-![Low 10 GDP Countries 2021](images/GDP/2021GDP_low10.png)
+## Interactive GDP Map
+Explore the interactive world GDP map (1990–2021) here:  
+[View GDP Map](https://pcw419.github.io/Global-Life-Expectancy-and-GDP-Analysis/gdp-map.html)
+
 
 ### Human Development Index (HDI) Groups
 ![HDI Groups Overview](images/HD/HD4groups.png)
