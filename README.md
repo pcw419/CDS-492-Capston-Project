@@ -1,7 +1,8 @@
-# CDS-492-Capston-Project: Global Life Expectancy and GDP Analysis (1990–2021)
+# Global Life Expectancy and GDP Analysis (1990–2021)
 
+Capstone Project for **CDS 492 (George Mason University, Fall 2024)**.  
 Statistical analysis of global life expectancy trends and GDP (1990–2021) using R.  
-Project completed as part of **CDS 492 Capstone Project, George Mason University (Fall 2024).**  
+
 
 ## Overview
 This project explores the relationship between **GDP per capita** and **life expectancy** using datasets from the **UNDP Human Development Reports** and **World Bank Open Data**.  
