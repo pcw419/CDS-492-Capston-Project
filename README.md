@@ -28,9 +28,9 @@ CDS-492-Capstone-Project/
 │ ├── GDP.R # GDP distribution and trends
 │ └── HD.R # Life expectancy by HDI groups
 │
-├── images/ # Generated plots (auto-saved)
+├── images/ # Generated plots
 │
-├── outputs/ # CSV summary tables (auto-saved)
+├── outputs/ # CSV summary tables
 │
 └── README.md # Project documentation
 ```
@@ -73,16 +73,26 @@ CDS-492-Capstone-Project/
 
 ## Visualizations
 
-Examples of generated plots (more available in `/images`):
+Representative plots from the analysis (more available in the [`images/`](./images) folder):
 
-- Life Expectancy by Continent (1990 vs 2021)  
-  ![Continent Boxplot](images/anova_continent_lifeexp.png)
+### Country-level
+![Country Life Expectancy 1990](images/country/Country_1990_histogram.png)  
+![Country Life Expectancy 2021](images/country/Country_2021_histogram.png)
 
-- GDP Distribution (Top/Bottom 10 countries)  
-  ![GDP Trends](images/2021GDP_top10.png)
+### Continent-level
+![Continent Boxplot 1990](images/continent/Continent_1990_box.png)  
+![Continent Boxplot 2021](images/continent/Continent_2021_box.png)
 
-- HDI Group Trends (1990–2021)  
-  ![HDI Regression](images/HD4groups.png)
+### GDP-level
+![Top 10 GDP Countries 2021](images/gdp/2021GDP_top10.png)  
+![Low 10 GDP Countries 2021](images/gdp/2021GDP_low10.png)
+
+### Human Development Index (HDI) Groups
+![HDI Groups Overview](images/hd/HD4groups.png)
+
+### ANOVA Results
+![ANOVA: Overall Test of Life Expectancy Differences Across Continents](images/anova/anova_WholeContinent.png)
+![ANOVA: Tukey HSD Pairwise Comparisons Between Continents](images/anova/anova_CompareWholeContinent.png)
 
 ---
 
