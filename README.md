@@ -83,7 +83,7 @@ Representative plots from the analysis (more available in the [`images/`](./imag
 ![Continent Boxplot 1990](images/continent/Continent_1990_box.png)  
 ![Continent Boxplot 2021](images/continent/Continent_2021_box.png)
 
-## Interactive GDP Map
+### Interactive GDP Map
 Explore the interactive world GDP map (1990–2021) here:  
 [View GDP Map](https://pcw419.github.io/Global-Life-Expectancy-and-GDP-Analysis/gdp-map.html)
 
